@@ -1,2 +1,2 @@
 # BlossomBazaar
-<img src="output\op.png">
+<img src="output/op.png">
